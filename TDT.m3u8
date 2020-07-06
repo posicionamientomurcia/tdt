@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-id="TELECINCO" group-title="Generalistas" tvg-name="TELECINCO",TELECINCO
+http://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
+#EXTINF:-1 tvg-id="CUATRO" group-title="Generalistas" tvg-name="CUATRO",CUATRO
+http://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
+#EXTINF:-1 tvg-id="ENERGY" group-title="Generalistas" tvg-name="ENERGY",ENERGY
+http://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
+#EXTINF:-1 tvg-id="LA 1" group-title="Generalistas" tvg-name="LA 1",LA 1
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
